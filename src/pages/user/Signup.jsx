@@ -5,7 +5,7 @@ export const Signup = () => {
     <>
       <div>
         <div className="logo mx-7 my-5 ">
-          {/* <img src="../../../public/logo.jpg" alt="" /> */}
+          <img src="../../../public/logo.jpg" alt="" />
         </div>
         <div className="signup-container flex justify-around">
           <div className="box1">
